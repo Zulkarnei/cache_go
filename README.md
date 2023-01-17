@@ -6,4 +6,5 @@
 - `Get(key string)`
 - `Delete(key)`
 
-Пакет может быть импортирован в виде библиотеки. Чтобы установить его в себе проект введите команду в terminal `go get -u github.com/Zulkarnei/cache_go`
+Пакет может быть импортирован в виде библиотеки. Чтобы установить его в себе проект введите команду в terminal:
+- `go get -u github.com/Zulkarnei/cache_go`
